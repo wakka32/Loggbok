@@ -5,7 +5,12 @@ public class loggbok {
 
     }
 
-    private static void main printMenu() {
-        System.out.println();
+    private static void main loggbok() {
+        System.out.println("1 Visa loggbok \n"
+                + "2. Lägg till i loggbok \n"
+                + "3 Redigera \n"
+                + "4 Spara \n"
+                + "5 Läs in \n"
+        );
     }
 }
